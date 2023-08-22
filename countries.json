@@ -1,4 +1,6 @@
-[
+{
+  "countries":
+  [
   {
     "nombre": "Afganistán",
     "name": "Afghanistan",
@@ -1968,3 +1970,4 @@
     "continente": "África"
   }
 ]
+}
